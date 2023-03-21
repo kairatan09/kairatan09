@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Kairat Nagmetov.
-[![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+there!+I'm+Kairat+Nagmetov!+%20🙏🏻)](http://ksergey.ru)
+[![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+there!+I'm+Kairat+Nagmetov!+%20🙏🏻)]
 
 - 🔭 I’m currently working on Gas Transport Company
 - 🌱 I’m currently learning developer course on GeekBrains
